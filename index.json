@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "proc-macro-hack",
+  "versions": [
+    {
+      "commit": "fe0889cb7a67adfe070fad449066034e7a662f56",
+      "tag": "0.5.20",
+      "parsed_at": "2026-11-22T09:50:08.676153+00:00"
+    }
+  ]
+}
